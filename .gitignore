@@ -1,0 +1,14 @@
+# API Key
+.env
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+venv/
+
+# ChromaDB 向量数据库文件
+chroma_db/
+pdf_rag_db/

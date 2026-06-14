@@ -1,0 +1,26 @@
+# 绝对不打包进镜像
+.env
+DEEPSEEK_API_KEY
+
+# 虚拟环境
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Git
+.git/
+.gitignore
+
+# 向量数据库文件
+chroma_db/
+pdf_rag_db/
+
+# 09 及以后的 RAG 相关代码暂时不打包（用的包太大）
+09_rag.py
+
+# Docker 自己的文件
+Dockerfile
+.dockerignore
+docker-compose.yml

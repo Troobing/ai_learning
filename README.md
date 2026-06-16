@@ -28,12 +28,9 @@ ai_learning/
 ├── 08_prompt_engineering.py     # Prompt Engineering 六大技巧
 ├── 09_rag.py                    # RAG 检索增强生成 + ChromaDB
 ├── Dockerfile                   # Docker 镜像构建
-├── docker-compose.yml           # 多服务编排
 ├── .dockerignore                # Docker 排除文件
 ├── requirements.txt             # Python 依赖
 ├── .gitignore                   # Git 排除文件
-├── DOCKER_保姆级教程.md          # Docker 零基础教程
-├── 学习路线_广度优先.md           # AI 开发广度学习路线图
 └── README.md                    # 本文件
 ```
 
